@@ -1,16 +1,16 @@
 # Firmware for model SM-N975F - from Samsung package version N975FXXS9HWHA
 
-cm.bin_SM-N975F
-dqmdbg.img_SM-N975F
-keystorage.bin_SM-N975F
-modem.bin_SM-N975F
-modem_debug.bin_SM-N975F
-param.bin_SM-N975F
-sboot.bin_SM-N975F
-uh.bin_SM-N975F
-up_param.bin_SM-N975F
+cm.bin_SM-N975F|40ef9e3a0cfa3e70eb6744e34f5210fa91dece57
+dqmdbg.img_SM-N975F|9ae49ce521f155f9a591d2fdca2f80875ab12838
+keystorage.bin_SM-N975F|df6839be1d0bd731f9dca3d9654b293c199699ee
+modem.bin_SM-N975F|52431e332cc3e14d1a1dd56e2523d219776ed817
+modem_debug.bin_SM-N975F|9b5b7e548afd2acc41e4754b538a8b0cbfbc09f0
+param.bin_SM-N975F|6f983afe38b4c3003dbde9de3e02fdf585bb91c4
+sboot.bin_SM-N975F|7751e51c06200248e176451bc0d3e83a01278d74
+uh.bin_SM-N975F|0c64c91e7830620b9dcd575334843967d752d848
+up_param.bin_SM-N975F|aa58a4f817641264043cc27101efa3db9606686a
 
 # File containing the supported models, one per line
-models
+models|fc8476420f74007524741b5a3309764ca75b699e
 # Files containing Samsung package version for supported models
-version_SM-N975F
+version_SM-N975F|0944966f47820705106d878aad83f4f2f06be2dc
